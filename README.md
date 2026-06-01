@@ -15,7 +15,8 @@ POST `/embedding`
 ```json
 {
   "word": "queen"
-}```
+}
+```
 
 ### Example Response
 
